@@ -1,6 +1,6 @@
 {
 	"ip":"ult8.falix.gg",
-	"port": "25565",
+	"port": "19080",
 	"name": "afkbot1",
 	"auto-night-skip":"false"
 }
